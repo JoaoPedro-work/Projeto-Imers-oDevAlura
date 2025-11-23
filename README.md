@@ -1,10 +1,9 @@
-Título: Plataforma de Curadoria e Busca de Serviços para Barbearias Locais
 Este projeto consiste em uma aplicação web front-end dinâmica desenvolvida utilizando HTML5, CSS3 e JavaScript ES6+, cujo objetivo é centralizar e organizar informações detalhadas sobre as barbearias na cidade de Patos de Minas/MG.
 
-🎯 Objetivo Principal
+Objetivo Principal
 O objetivo é fornecer aos usuários uma ferramenta intuitiva e altamente funcional para descobrir, comparar e localizar serviços de cuidado masculino, melhorando significativamente a experiência de busca por prestadores de serviço locais.
 
-⚙️ Arquitetura e Funcionalidades Técnicas
+Arquitetura e Funcionalidades Técnicas
 Estrutura de Dados: Os dados das 54 barbearias são gerenciados de forma externa em um arquivo JSON, garantindo que a aplicação seja escalável e fácil de atualizar sem modificar a lógica principal.
 
 Renderização Dinâmica (JavaScript): O JavaScript é responsável por carregar o JSON (utilizando fetch e async/await), processar os dados e renderizar dinamicamente a galeria de cards (Grid).
@@ -27,5 +26,4 @@ Integração com Maps: O endereço (localizacao) em todos os cards e no modal é
 
 Design Responsivo: A estrutura (index.html e style.css) foi projetada para ser completamente responsiva, garantindo uma visualização e funcionalidade consistentes em dispositivos móveis (Mobile-First Approach) e desktops.
 
-📈 Conclusão
 Este projeto demonstra a capacidade de construir uma solução full-featured e orientada a dados, focada em resolver um problema prático do usuário através da combinação eficiente de HTML, CSS e JavaScript.
