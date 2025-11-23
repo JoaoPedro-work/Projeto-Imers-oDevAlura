@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "nome": "Barbearia Montaigne",
+        "localizacao": "Rua Artur Magalhães , 1255 - Nova Floresta - Patos de Minas/MG",
+        "precoMedio": "R$ 35,00",
+        "avaliacoes": 4.8,
+        "imagemUrl": "https://lh3.googleusercontent.com/p/AF1QipPOpwBBU1A8DEi46sqoJdb7FtS2msm0meWPoTgk=w408-h560-k-no",
+        "servicosExtra": ["Estacionamento", "Atende crinaças","Agendamento Online"],
+        "descricaoCompleta": "Uma barbearia tradicional com foco na qualidade do serviço e no ambiente acolhedor. Ideal para quem busca o estilo clássico."
+    },
+    {
+        "id": 2,
+        "nome": "The Boss BarberClub",
+        "localizacao": "Rua Ponto Chic , 1026 - Vila Garcia - Patos de Minas/MG",
+        "precoMedio": "R$ 40,00",
+        "avaliacoes": 4.5,
+        "imagemUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZOyiwVF0w89M47CaoBVENg6jaNiiMfiTFBRiDYUjJT-PEnlhBBkmuxMsjw7jkCxUUFy1OJKGqiqwwd2sajnxGvBjqkhq62SDqawCMOQKPaC0XBlV1hBYf055qXS_iJBTkMNnGdVkdtXIz=w408-h544-k-no",
+        "servicosExtra": ["Café e Chá", "Agendamento Online", "Wi-Fi"],
+        "descricaoCompleta": "Moderna e descontraída, oferece serviços rápidos e eficientes. Perfeita para o público jovem e com pressa."
+    },
+    {
+        "id": 3,
+        "nome": "Navalha de Ouro",
+        "localizacao": "Avenida Dilermando Gomes de Deus , 1454 - Panoramico - Patos de Minas/MG",
+        "precoMedio": "R$ 100,00",
+        "avaliacoes": 4.9,
+        "imagemUrl": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/barbearia-9-de-julho-selo-cc3b3pia.jpg?quality=70&strip=all",
+        "servicosExtra": ["Massagem", "Sala VIP", "Produtos Premium"],
+        "descricaoCompleta": "O mais alto padrão de luxo e atendimento. Especializada em tratamentos de barba e cabelo premium."
+    },
+    {
+        "id": 4,
+        "nome": "Estilo Urbano",
+        "localizacao": "Rua Mata dos Fernandes , 856 - Vila Garcia - Patos de Minas/MG",
+        "precoMedio": "R$ 40,00",
+        "avaliacoes": 4.2,
+        "imagemUrl": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/188573/biz_photo/d6f852f774744e189d985ee9d0fec1-barbearia-kefferhauss-biz-photo-f77ada2384b64fcc9407dbb1e2b3ed-booksy.jpeg?size=640x427",
+        "servicosExtra": ["Acessível", "Wi-Fi Grátis"],
+        "descricaoCompleta": "Focada em cortes da moda e preço acessível. Ambiente vibrante e atendimento rápido e amigável."
+    },
+    {
+        "id": 30,
+        "nome": "Barbearia Duarte",
+        "localizacao": "Rua Vereador João Pacheco, 120 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 45,00",
+        "avaliacoes": 4.6,
+        "imagemUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx2W24aqfXIUocQu10U_LLZ8IqrYj_msdfgAsDEFcBjCBQM5GduSx9qTwjbHvV_gSk2m0TuL-tK3bPwywb9RUhLO7ZIo5ac0_sh6j1htVRoiuSAbfng4xzeR_4cTI7DRmKcIsp0=w408-h544-k-no",
+        "servicosExtra": ["Agendamento Online", "Cerveja Artesanal"],
+        "descricaoCompleta": "Estúdio com foco nas últimas tendências e cortes modernos. Ambiente descontraído e com boa música."
+    },
+    {
+        "id": 31,
+        "nome": "Tesoura de Ouro",
+        "localizacao": "Avenida Brasil, 95 - Caramuru - Patos de Minas/MG",
+        "precoMedio": "R$ 60,00",
+        "avaliacoes": 4.9,
+        "imagemUrl": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/317377/biz_photo/52226f53a7e2461a859dc60319b55f-salao-barbearia-finotok-biz-photo-81ae20deb67e4efe81d57fb1e4a290-booksy.jpeg?size=640x427",
+        "servicosExtra": ["Whisky Bar", "Sala VIP", "Estacionamento"],
+        "descricaoCompleta": "Experiência premium com atendimento exclusivo e produtos de alta qualidade. Ideal para quem busca luxo e conforto."
+    },
+    {
+        "id": 32,
+        "nome": "O Barbeiro do Bairro",
+        "localizacao": "Rua Ouro Preto, 201 - Rosário - Patos de Minas/MG",
+        "precoMedio": "R$ 35,00",
+        "avaliacoes": 4.1,
+        "imagemUrl": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesLife_barbeariacorleone_20072021_Divulgacao-800x533.jpg",
+        "servicosExtra": ["Cortes Simples", "Preço Justo"],
+        "descricaoCompleta": "Tradição e acolhimento. A barbearia clássica do bairro, sem frescura e com serviço garantido."
+    },
+    {
+        "id": 33,
+        "nome": "Vintage Barber",
+        "localizacao": "Rua Olegário Maciel, 1500 - Lagoa Grande - Patos de Minas/MG",
+        "precoMedio": "R$ 50,00",
+        "avaliacoes": 4.7,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyGBuE3CyoukJ314GvlGPNHtemVswf6RBsw&s",
+        "servicosExtra": ["Decoração Retrô", "Produtos Importados", "Café Gourmet"],
+        "descricaoCompleta": "Um mergulho nos anos 60. Cortes clássicos, barbear com navalha e ambiente com decoração vintage autêntica."
+    },
+    {
+        "id": 34,
+        "nome": "Tio Juninho Barbearia",
+        "localizacao": "Avenida Paracatu, 10 - Caiçaras - Patos de Minas/MG",
+        "precoMedio": "R$ 40,00",
+        "avaliacoes": 4.8,
+        "imagemUrl": "https://lh3.googleusercontent.com/p/AF1QipPsVGRcB6OhH_1AtahR0Kfg8S6Jal5fKSMG8SWd=w427-h240-k-no",
+        "servicosExtra": ["Especialista em Fade", "Pigmentação", "Atendimento Rápido"],
+        "descricaoCompleta": "Foco total em cortes degradê e estilização. Equipe jovem e sempre atualizada nas tendências do hip-hop e street style."
+    },
+    {
+        "id": 35,
+        "nome": "Barbearia Blackout",
+        "localizacao": "Rua Major Gote, 185 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 75,00",
+        "avaliacoes": 5.0,
+        "imagemUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyFvYchXKuJrrIC1C3vRKmA6vJfqDFUnRUp4bbZ6lEmAa1tIQP2YY9VJ7-FEkxc0MplnwUjpCskZzhDdIIJJUcBk5Cp2R2dHDnOQNQoAFx8mblVEbtIs6b2wNxMChxEkB9BqCqM=w408-h306-k-no",
+        "servicosExtra": ["Atendimento VIP", "Massagem Facial", "Bebidas Premium"],
+        "descricaoCompleta": "O ápice da excelência. Serviço 5 estrelas em um ambiente de alto padrão, garantindo a satisfação total do cliente."
+    },
+    {
+        "id": 36,
+        "nome": "O Talento da Máquina",
+        "localizacao": "Rua dos Bálsamos, 50 - Jardim Panorâmico - Patos de Minas/MG",
+        "precoMedio": "R$ 30,00",
+        "avaliacoes": 4.2,
+        "imagemUrl": "https://static.ndmais.com.br/2016/04/08-04-2016-19-44-10-p5-1-especial-barbearias-2016-04-08-53-.jpg",
+        "servicosExtra": ["Wi-Fi Grátis", "Acessível"],
+        "descricaoCompleta": "Barbearia simples, mas com ótimo custo-benefício. Perfeito para cortes rápidos e bem feitos."
+    },
+    {
+        "id": 37,
+        "nome": "Barber Zone",
+        "localizacao": "Avenida Getúlio Vargas, 1000 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 55,00",
+        "avaliacoes": 4.7,
+        "imagemUrl": "https://barbeariajohnsix.com.br/wp-content/uploads/2021/05/Barbearia-Curitiba-Decoracao-scaled.jpeg",
+        "servicosExtra": ["Sinuca", "Games", "TV a Cabo"],
+        "descricaoCompleta": "Mais do que um corte, uma experiência de entretenimento. Ideal para passar o tempo enquanto espera."
+    },
+    {
+        "id": 38,
+        "nome": "Los Hermanos",
+        "localizacao": "Rua Piauí, 301 - Bela Vista - Patos de Minas/MG",
+        "precoMedio": "R$ 48,00",
+        "avaliacoes": 4.5,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbD4OoTWr6bw3Q39kDLbZfspT6yqyZFlj_4g&s",
+        "servicosExtra": ["Toalha Quente", "Shaving Clássico"],
+        "descricaoCompleta": "Especializada no barbear à moda antiga. Uso de produtos específicos e técnicas tradicionais para o melhor resultado."
+    },
+    {
+        "id": 39,
+        "nome": "Studio 034",
+        "localizacao": "Rua Afonso Queiroz, 800 - Sebastião Amorim - Patos de Minas/MG",
+        "precoMedio": "R$ 42,00",
+        "avaliacoes": 4.4,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpTiFYZsDGZZc6PButkYlH2PPlGYTH3QaxA&s",
+        "servicosExtra": ["Tatuagem (Parceria)", "Música Ambiente"],
+        "descricaoCompleta": "Barbearia e estúdio de arte. Ambiente criativo e com foco em estilos que se integram à personalidade."
+    },
+    {
+        "id": 40,
+        "nome": "Homem de Ferro",
+        "localizacao": "Rua Padre Caldeira, 450 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 65,00",
+        "avaliacoes": 4.9,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhndPda3uDiyqbpmZF5gjuISFDHoX80QQFA&s",
+        "servicosExtra": ["Tratamentos de Calvície", "Micropigmentação"],
+        "descricaoCompleta": "Focada em soluções avançadas para cabelo masculino, incluindo tratamentos e técnicas semi-permanentes."
+    },
+    {
+        "id": 41,
+        "nome": "Corte e Conversa",
+        "localizacao": "Rua Ceará, 90 - Cristo Redentor - Patos de Minas/MG",
+        "precoMedio": "R$ 38,00",
+        "avaliacoes": 4.3,
+        "imagemUrl": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/38452/biz_photo/563cea3808f541f0b2f47f74ab6991-barbearia-hermanos-santa-cecil-biz-photo-6b0913eef64c445dab647b6a9a2199-booksy.jpeg?size=640x427",
+        "servicosExtra": ["Café e Chá", "Ambiente Familiar"],
+        "descricaoCompleta": "Um lugar para se sentir em casa. Atendimento personalizado e ótimo para quem gosta de bater um bom papo."
+    },
+    {
+        "id": 42,
+        "nome": "Barba Rubra",
+        "localizacao": "Avenida JK, 250 - Eldorado - Patos de Minas/MG",
+        "precoMedio": "R$ 55,00",
+        "avaliacoes": 4.6,
+        "imagemUrl": "https://blog.vertixprofessional.com.br/wp-content/uploads/2025/02/ideias-para-barbearia-pequena-como-decorar.jpg",
+        "servicosExtra": ["Produtos Veganos", "Massagem Capilar"],
+        "descricaoCompleta": "Barbearia que prioriza produtos naturais e veganos. Focada em clientes que buscam cuidados sustentáveis."
+    },
+    {
+        "id": 43,
+        "nome": "Clube da Tesoura",
+        "localizacao": "Rua Rui Barbosa, 12 - Alto dos Caiçaras - Patos de Minas/MG",
+        "precoMedio": "R$ 40,00",
+        "avaliacoes": 4.5,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPs5hVS2isYO51m-TopehyLXyPEEibllifeQ&s",
+        "servicosExtra": ["Desconto Estudante", "Wi-Fi Grátis"],
+        "descricaoCompleta": "Popular entre estudantes e jovens profissionais. Oferece bom preço e promoções semanais."
+    },
+    {
+        "id": 44,
+        "nome": "Barbearia VIP",
+        "localizacao": "Rua Pernambuco, 300 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 80,00",
+        "avaliacoes": 5.0,
+        "imagemUrl": "https://s2.glbimg.com/V5KsKqzBdaIGXeITonSc5bqJFFY=/e.glbimg.com/og/ed/f/original/2015/09/15/barbearia_torres.jpg",
+        "servicosExtra": ["Bebidas Importadas", "Serviço de Mordomo", "Sala Privativa"],
+        "descricaoCompleta": "O serviço mais luxuoso e discreto da cidade. Ideal para personalidades e clientes que exigem privacidade."
+    },
+    {
+        "id": 45,
+        "nome": "Corte Expresso",
+        "localizacao": "Terminal Rodoviário - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 30,00",
+        "avaliacoes": 3.9,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeBMlqwj3HLRhKEbCRPKjSXxi_npjQjMb_w&s",
+        "servicosExtra": ["Atendimento Rápido", "Sem Agendamento"],
+        "descricaoCompleta": "Localizado na rodoviária, perfeito para viajantes ou para quem precisa de um corte emergencial."
+    },
+    {
+        "id": 46,
+        "nome": "Mestre da Barba",
+        "localizacao": "Rua Tenente Bino, 10 - Bela Vista - Patos de Minas/MG",
+        "precoMedio": "R$ 48,00",
+        "avaliacoes": 4.7,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Q2vK-UcRW_2oVKv6BdHAORkibe2zC4pZ5A&s",
+        "servicosExtra": ["Consultoria de Imagem", "Produtos Naturais"],
+        "descricaoCompleta": "Mais que barbeiros, são consultores de estilo. Focam em um corte que harmonize com o formato do rosto e o estilo do cliente."
+    },
+    {
+        "id": 47,
+        "nome": "Barbearia Esportiva",
+        "localizacao": "Avenida Fátima Porto, 200 - Nossa Senhora de Fátima - Patos de Minas/MG",
+        "precoMedio": "R$ 40,00",
+        "avaliacoes": 4.4,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDu3sNzs3PTxShFFbfeqkT-Nn4vFnVTaciw&s",
+        "servicosExtra": ["TV com Esportes", "Área de Churrasco"],
+        "descricaoCompleta": "Ambiente temático de esportes, ideal para assistir jogos enquanto corta o cabelo. Clientes assíduos ganham descontos."
+    },
+    {
+        "id": 48,
+        "nome": "O Barbeiro G",
+        "localizacao": "Rua Barão do Rio Branco, 55 - Centro - Patos de Minas/MG",
+        "precoMedio": "R$ 50,00",
+        "avaliacoes": 4.8,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2p2VQFfX5-LPM5toTfct64cQPGlzKLcxM3A&s",
+        "servicosExtra": ["Cortes Geométricos", "Designs na Barba"],
+        "descricaoCompleta": "Especializada em cortes gráficos e designs criativos com navalha e máquina. Focada em tendências urbanas."
+    },
+    {
+        "id": 49,
+        "nome": "Canto do Ferreiro",
+        "localizacao": "Rua dos Guaranis, 15 - Vila Floresta - Patos de Minas/MG",
+        "precoMedio": "R$ 35,00",
+        "avaliacoes": 4.1,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTokpQ7wtQJ9DiSiW-wlYeQNfnV7EddNf4MWg&s",
+        "servicosExtra": ["Atendimento Familiar", "Acessível"],
+        "descricaoCompleta": "Barbearia simples e tradicional, ideal para cortes de família. Preços acessíveis para todos os bolsos."
+    },
+    {
+        "id": 50,
+        "nome": "Barbearia da Vila",
+        "localizacao": "Rua Tomaz de Aquino, 80 - Nossa Senhora Aparecida - Patos de Minas/MG",
+        "precoMedio": "R$ 45,00",
+        "avaliacoes": 4.6,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5Pu1gccljm6yxOeGMo5gX7LqHaIIgCBnww&s",
+        "servicosExtra": ["Delivery de Corte", "Agendamento por WhatsApp"],
+        "descricaoCompleta": "Oferece o serviço de ir até o cliente em casos especiais. Focada na conveniência e facilidade de agendamento."
+    },
+    {
+        "id": 51,
+        "nome": "Clássico & Co.",
+        "localizacao": "Rua Dona Luiza, 1200 - Ipanema - Patos de Minas/MG",
+        "precoMedio": "R$ 55,00",
+        "avaliacoes": 4.7,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFv10KJvZ21puZB5pwxHHnYzDN22SAN2jjQ&s",
+        "servicosExtra": ["Produtos Premium", "Hidratação Capilar"],
+        "descricaoCompleta": "Fusão entre o clássico e o contemporâneo. Serviços de alto padrão com foco na saúde do cabelo e da barba."
+    },
+    {
+        "id": 52,
+        "nome": "A Última Navalha",
+        "localizacao": "Avenida Marabá, 50 - Alto Limoeiro - Patos de Minas/MG",
+        "precoMedio": "R$ 38,00",
+        "avaliacoes": 4.3,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUts4W0OJi15hpNNiVyrn6sB0FJJaSaol2w&s",
+        "servicosExtra": ["Corte Feminino (Parceria)", "Horário Estendido"],
+        "descricaoCompleta": "Embora focada em homens, possui uma parceria para serviços femininos. Oferece horários mais amplos."
+    },
+    {
+        "id": 53,
+        "nome": "Corte Zero",
+        "localizacao": "Rua Mato Grosso, 88 - Lagoa Grande - Patos de Minas/MG",
+        "precoMedio": "R$ 25,00",
+        "avaliacoes": 3.8,
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ab5slkekm3aktCM7foukv3t-NYmWxJdnlg&s",
+        "servicosExtra": ["Sem Estacionamento", "Aceita Pix"],
+        "descricaoCompleta": "A barbearia mais barata da região. Perfeita para um corte rápido de máquina sem muitos detalhes."
+    },
+    {
+        "id": 54,
+        "nome": "Barbearia do Beto",
+        "localizacao": "Rua Major Gote, 2000 - Caiçaras - Patos de Minas/MG",
+        "precoMedio": "R$ 70,00",
+        "avaliacoes": 4.9,
+        "imagemUrl": "https://i.pinimg.com/564x/ba/af/41/baaf4155eff45d27b6aa7d2c194cc921.jpg",
+        "servicosExtra": ["Serviço de Engraxate", "Charutaria", "Atendimento VIP"],
+        "descricaoCompleta": "Um clube de cavalheiros. Focada em um serviço completo que inclui o cuidado com os sapatos e um lounge confortável."
+    }
+]
